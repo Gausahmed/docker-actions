@@ -6,6 +6,7 @@ on:
       - closed # open, closed, stale.
     branches:    
       - 'main' # closed at main branch only
+      - 'master'
 
 
 env:
